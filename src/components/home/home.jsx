@@ -28,7 +28,7 @@ function Home() {
 
       <main className="px-20 lg:px-sitex bg-primary p-4 text-gray-400">
         <h1 className="text-2xl font-bold text-center">
-          Todas las películas de cuevana 8 online Gratis
+          Te amo mucho meylin aqui tienes Todas las películas de cuevana 8 online Gratis
         </h1>
 
         <section className="mt-10 flex lg:flex-row flex-col gap-8">
